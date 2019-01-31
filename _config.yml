@@ -78,8 +78,8 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git  
-  repo: https://github.com/Yajiang/Yajiang.github.io
+  type:   
+  repo: 
   branch:
   message:
 
