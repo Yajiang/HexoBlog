@@ -80,6 +80,6 @@ theme: landscape
 deploy:
   type: git    
   repo: http://github.com/Yajiang/Yajiang.github.io 
-  branch: published
+  branch: master
   message:
 
